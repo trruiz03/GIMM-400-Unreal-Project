@@ -5,6 +5,16 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Joe/Documents/GitHub/GIMM-400-Unreal-Project/GIMM400_Unreal/Content/VehicleTemplate/Blueprints/VehicleAdvPawn.uasset",
+				"C:/Users/Joe/Documents/GitHub/GIMM-400-Unreal-Project/GIMM400_Unreal/Content/VehicleTemplate/Blueprints/VehiclePlayerController.uasset",
+				"C:/Users/Joe/Documents/GitHub/GIMM-400-Unreal-Project/GIMM400_Unreal/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/Joe/Documents/GitHub/GIMM-400-Unreal-Project/GIMM400_Unreal/Content/VehicleTemplate/Maps/VehicleExampleMap.umap",
+				"C:/Users/Joe/Documents/GitHub/GIMM-400-Unreal-Project/GIMM400_Unreal/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/2/DT/ATCMFU8PIPU71652QAP995.uasset",
+				"C:/Users/Joe/Documents/GitHub/GIMM-400-Unreal-Project/GIMM400_Unreal/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Joe/Documents/GitHub/GIMM-400-Unreal-Project/GIMM400_Unreal/Content/Vehicles/SportsCar/SportsCar_Skeleton.uasset",
+				"C:/Users/Joe/Documents/GitHub/GIMM-400-Unreal-Project/GIMM400_Unreal/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_Pawn.uasset",
+				"C:/Users/Joe/Documents/GitHub/GIMM-400-Unreal-Project/GIMM400_Unreal/Content/Characters/Mannequins/Meshes/SKM_Quinn_Physics.uasset",
+				"C:/Users/Joe/Documents/GitHub/GIMM-400-Unreal-Project/GIMM400_Unreal/Content/Characters/Mannequins/Meshes/SKM_Quinn.uasset",
 				"D:/School/Github/GIMM400_UnityProject/GIMM400_Unreal/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
