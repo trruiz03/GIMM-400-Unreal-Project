@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/seanm/Documents/Unreal Projects/GIMM-400-Unreal-Project/GIMM400_Unreal/Content/Developers/seanm/Pedestrians/PedestrianSetup.umap",
+				"D:/seanm/Documents/Unreal Projects/GIMM-400-Unreal-Project/GIMM400_Unreal/Content/Developers/seanm/Pedestrians/MassNPC/ABP_MassNPC.uasset",
+				"D:/seanm/Documents/Unreal Projects/GIMM-400-Unreal-Project/GIMM400_Unreal/Content/Developers/seanm/Pedestrians/MassNPC/BP_MassNPC_LowRes.uasset",
+				"D:/seanm/Documents/Unreal Projects/GIMM-400-Unreal-Project/GIMM400_Unreal/Content/Developers/seanm/Pedestrians/MassNPC/A_WilhelmScream.uasset",
+				"D:/seanm/Documents/Unreal Projects/GIMM-400-Unreal-Project/GIMM400_Unreal/Content/Developers/seanm/Pedestrians/MassNPC/BP_MassNPC_HighRes.uasset",
 				"C:/Users/brady/OneDrive/Documents/GitHub/GIMM-400-Unreal-Project/GIMM400_Unreal/Content/Blueprints/Booster_BP.uasset",
 				"C:/Users/brady/OneDrive/Documents/GitHub/GIMM-400-Unreal-Project/GIMM400_Unreal/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/A/H0/LYTDGJWOH7OXH2EDGARXVB.uasset",
 				"C:/Users/brady/OneDrive/Documents/GitHub/GIMM-400-Unreal-Project/GIMM400_Unreal/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/E/0F/98ISP8O7J3TB8XGN5PCRB0.uasset",
